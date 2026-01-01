@@ -1,7 +1,7 @@
 LINK: https://quick-ai-ochre-theta.vercel.app/
 
 
-
+  
 ✨ Key Features
 
 User Authentication (Clerk): Email/Password, OAuth, profile management, orgs (optional)
